@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone *)",
+      "Bash(git remote *)",
+      "Bash(rm *)",
+      "Bash(git init)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(node *)",
+      "Bash(npm *)",
+      "Bash(ss *)",
+      "Bash(npx *)",
+      "Bash(sleep *)",
+      "Bash(curl *)",
+      "Bash(mkdir *)",
+      "Bash(cp *)",
+      "Bash(pkill *)"
+    ]
+  },
+  "$version": 3
+}
